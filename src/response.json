@@ -1,0 +1,58 @@
+[
+    {
+    "podid": "Hip-sd",
+    "integrationid": "Int-172",
+    "routebuilderid": "Hello Route",
+    "apiPath": "/product/112",
+    "requestCdmObject": "StudentCriteriaDto",
+    "responseCdmObject": "StudentResult"
+    },
+    {
+    "podid": "Hip-sd",
+    "integrationid": "Int-172",
+    "routebuilderid": "Hello Route",
+    "apiPath": "/accounts/112",
+    "requestCdmObject": "StudentCriteriaDto",
+    "responseCdmObject": "StudentResult"
+    },
+    {
+    "podid": "Hip-sd",
+    "integrationid": "Int-172",
+    "routebuilderid": "Hello Route",
+    "apiPath": "/customers/112",
+    "requestCdmObject": "StudentCriteriaDto",
+    "responseCdmObject": "StudentResult"
+    },
+    {
+    "podid": "Hip-sd",
+    "integrationid": "Int-172",
+    "routebuilderid": "Hello Route",
+    "apiPath": "/titles/112",
+    "requestCdmObject": "StudentCriteriaDto",
+    "responseCdmObject": "StudentResult"
+    },
+    {
+    "podid": "Hip-sd",
+    "integrationid": "Int-172",
+    "routebuilderid": "Hello Route",
+    "apiPath": "/beers/112",
+    "requestCdmObject": "StudentCriteriaDto",
+    "responseCdmObject": "StudentResult"
+    },
+    {
+    "podid": "Hip-sd",
+    "integrationid": "Int-172",
+    "routebuilderid": "Hello Route",
+    "apiPath": "/homebrew/112",
+    "requestCdmObject": "StudentCriteriaDto",
+    "responseCdmObject": "StudentResult"
+    },
+    {
+    "podid": "Hip-sd",
+    "integrationid": "Int-172",
+    "routebuilderid": "Hello Route",
+    "apiPath": "/wines/112",
+    "requestCdmObject": "StudentCriteriaDto",
+    "responseCdmObject": "StudentResult"
+    }
+    ]
